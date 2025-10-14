@@ -80,6 +80,4 @@
             </div>
         </div>
 <!-- content field end -->
-    </div>
-</body>
-</html>
+<%@ include file="../include/tail.jsp" %>

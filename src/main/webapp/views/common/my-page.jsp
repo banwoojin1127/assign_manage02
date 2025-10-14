@@ -61,5 +61,4 @@
             </form>
         </div>
 <!-- content field end -->
-    </div>
-</body>
+<%@ include file="../include/tail.jsp" %>

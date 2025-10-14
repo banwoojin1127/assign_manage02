@@ -32,3 +32,4 @@
             </div>
         </div>
 <!-- content field end -->
+<%@ include file="../include/tail.jsp" %>

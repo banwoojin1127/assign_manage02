@@ -20,7 +20,7 @@
                         <br>
                         아이디 또는 비밀번호가 일치하지 않습니다.
                     </div>
-                    <a href="../common/user-management.jsp" id="btnWideRequest" class="btn align-content-center w-75 my-1" style="height: 50px;" type="button">로그인</a>
+                    <a href="../common/my-page.jsp" id="btnWideRequest" class="btn align-content-center w-75 my-1" style="height: 50px;" type="button">로그인</a>
                     <div id="" class="darkText w-75 h-auto my-1 p-2">
                         <a href="../common/signup.jsp" style="color: white; text-decoration : none;">회원 가입</a>
                         &nbsp;&nbsp;|&nbsp;&nbsp;

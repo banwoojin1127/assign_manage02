@@ -38,11 +38,11 @@
             </span>
             &nbsp;&nbsp;&nbsp;
             <span class="d-flex align-content-center flex-wrap h-100">
-                <a href="../common/my-page.html" id="" class="darkBtn btn rounded" style="height: 75%;">마이 페이지</a>
+                <a href="../common/my-page.jsp" id="" class="darkBtn btn rounded" style="height: 75%;">마이 페이지</a>
             </span>
             &nbsp;&nbsp;&nbsp;
             <span class="d-flex align-content-center flex-wrap h-100">
-                <a href="../common/login.html" id="" class="darkBtn btn rounded" style="height: 75%;">로그아웃</a>
+                <a href="../common/login.jsp" id="" class="darkBtn btn rounded" style="height: 75%;">로그아웃</a>
             </span>
             &nbsp;&nbsp;&nbsp;
         </div>
@@ -73,11 +73,11 @@
                 </h2>
                 <div id="collapseFst" class="defCollaps accordion-collapse collapse show" style="border-style:none;" data-bs-parent="#navSideBar">
                     <div id="" class="accordion-body row row-cols-2 m-0 p-0" style="width: 100%">
-                        <a href="../admin/user-management.html" id="" class="btn d-flex col flex-wrap justify-content-center align-content-center h-50" style="width: 97%; font-weight: bold;">
+                        <a href="../admin/user-management.jsp" id="" class="btn d-flex col flex-wrap justify-content-center align-content-center h-50" style="width: 97%; font-weight: bold;">
                             <span>사용자 관리</span>
                         </a>
                         <div class="blank d-flex col flex-wrap m-0 p-0" style="width: 3%;"></div>
-                        <a href="../admin/teacher-signup.html" id="" class="btn d-flex col flex-wrap justify-content-center align-content-center h-50" style="width: 97%;">
+                        <a href="../admin/teacher-signup.jsp" id="" class="btn d-flex col flex-wrap justify-content-center align-content-center h-50" style="width: 97%;">
                             <span>교사 등록</span>
                         </a>
                         <div class="blank d-flex col flex-wrap m-0 p-0" style="width: 3%;"></div>
@@ -95,7 +95,7 @@
                 </h2>
                 <div id="collapseSnd" class="defCollaps accordion-collapse collapse" style="border-style:none;" data-bs-parent="#navSideBar">
                     <div id="" class="accordion-body row row-cols-2 m-0 p-0" style="width: 100%">
-                        <a href="../admin/lecture-management.html" id="" class="btn d-flex col flex-wrap justify-content-center align-content-center h-50" style="width: 97%;">
+                        <a href="../admin/lecture-management.jsp" id="" class="btn d-flex col flex-wrap justify-content-center align-content-center h-50" style="width: 97%;">
                             <span>강의 관리</span>
                         </a>
                         <div class="blank d-flex col flex-wrap m-0 p-0" style="width: 3%;"></div>
@@ -113,7 +113,7 @@
                 </h2>
                 <div id="collapseTrd" class="defCollaps accordion-collapse collapse" style="border-style:none;" data-bs-parent="#navSideBar">
                     <div id="" class="accordion-body row row-cols-2 m-0 p-0" style="width: 100%">
-                        <a href="../admin/assignment-list.html" id="" class="btn d-flex col flex-wrap justify-content-center align-content-center h-50" style="width: 97%;">
+                        <a href="../admin/assignment-list.jsp" id="" class="btn d-flex col flex-wrap justify-content-center align-content-center h-50" style="width: 97%;">
                             <span>과제 관리</span>
                         </a>
                         <div class="blank d-flex col flex-wrap m-0 p-0" style="width: 3%;"></div>

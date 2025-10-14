@@ -37,11 +37,11 @@
             </span>
             &nbsp;&nbsp;&nbsp;
             <span class="d-flex align-content-center flex-wrap h-100">
-                <a href="../common/my-page.html" id="" class="darkBtn btn rounded" style="height: 75%;">마이 페이지</a>
+                <a href="../common/my-page.jsp" id="" class="darkBtn btn rounded" style="height: 75%;">마이 페이지</a>
             </span>
             &nbsp;&nbsp;&nbsp;
             <span class="d-flex align-content-center flex-wrap h-100">
-                <a href="../common/login.html" id="" class="darkBtn btn rounded" style="height: 75%;">로그아웃</a>
+                <a href="../common/login.jsp" id="" class="darkBtn btn rounded" style="height: 75%;">로그아웃</a>
             </span>
             &nbsp;&nbsp;&nbsp;
         </div>
@@ -72,7 +72,7 @@
                 </h2>
                 <div id="collapseFst" class="defCollaps accordion-collapse collapse show" style="border-style:none;" data-bs-parent="#navSideBar">
                     <div id="" class="accordion-body row row-cols-2 m-0 p-0" style="width: 100%">
-                        <a href="../teacher/lecture-management.html" id="" class="btn d-flex col flex-wrap justify-content-center align-content-center h-50" style="width: 97%; font-weight: bold;">
+                        <a href="../teacher/lecture-management.jsp" id="" class="btn d-flex col flex-wrap justify-content-center align-content-center h-50" style="width: 97%; font-weight: bold;">
                             <span>강의 관리</span>
                         </a>
                         <div class="blank d-flex col flex-wrap m-0 p-0" style="width: 3%;"></div>
@@ -90,7 +90,7 @@
                 </h2>
                 <div id="collapseSnd" class="defCollaps accordion-collapse collapse" style="border-style:none;" data-bs-parent="#navSideBar">
                     <div id="" class="accordion-body row row-cols-2 m-0 p-0" style="width: 100%">
-                        <a href="../teacher/assignment-list.html" id="" class="btn d-flex col flex-wrap justify-content-center align-content-center h-50" style="width: 97%; font-weight: bold;">
+                        <a href="../teacher/assignment-list.jsp" id="" class="btn d-flex col flex-wrap justify-content-center align-content-center h-50" style="width: 97%; font-weight: bold;">
                             <span>과제 관리</span>
                         </a>
                         <div class="blank d-flex col flex-wrap m-0 p-0" style="width: 3%;"></div>
@@ -108,7 +108,7 @@
                 </h2>
                 <div id="collapseTrd" class="defCollaps accordion-collapse collapse" style="border-style:none;" data-bs-parent="#navSideBar">
                     <div id="" class="accordion-body row row-cols-2 m-0 p-0" style="width: 100%">
-                        <a href="../teacher/student-list.html" id="" class="btn d-flex col flex-wrap justify-content-center align-content-center h-50" style="width: 97%; font-weight: bold;">
+                        <a href="../teacher/student-list.jsp" id="" class="btn d-flex col flex-wrap justify-content-center align-content-center h-50" style="width: 97%; font-weight: bold;">
                             <span>학생 명단</span>
                         </a>
                         <div class="blank d-flex col flex-wrap m-0 p-0" style="width: 3%;"></div>
@@ -126,7 +126,7 @@
                 </h2>
                 <div id="collapseFth" class="defCollaps accordion-collapse collapse" style="border-style:none;" data-bs-parent="#navSideBar">
                     <div id="" class="accordion-body row row-cols-2 m-0 p-0" style="width: 100%">
-                        <a href="../teacher/statistics.html" id="" class="btn d-flex col flex-wrap justify-content-center align-content-center h-50" style="width: 97%; font-weight: bold;">
+                        <a href="../teacher/statistics.jsp" id="" class="btn d-flex col flex-wrap justify-content-center align-content-center h-50" style="width: 97%; font-weight: bold;">
                             <span>통계 및 리포트</span>
                         </a>
                         <div class="blank d-flex col flex-wrap m-0 p-0" style="width: 3%;"></div>

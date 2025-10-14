@@ -8,7 +8,7 @@
                     &nbsp;&nbsp;
                     <div id="" class="textWideTitle d-flex flex-wrap justify-content-between align-content-center px-1" style="width: 95%;">
                         <p class="m-0" style="font-size: 1.5em;">아이디 찾기</p>
-                        <a href="../common/login.html" class=" darkBtn btn">이전</a>
+                        <a href="../common/login.jsp" class=" darkBtn btn">이전</a>
                     </div>
                 </div>
                 <div id="formFindIDRequest" class="col-12 d-flex flex-wrap justify-content-center align-content-center border border-dark border-1 rounded py-5">
@@ -17,7 +17,7 @@
                             <input id="" class="form-control m-2" name="" type="text" placeholder="이름을 입력하세요">
                             <input id="" class="form-control m-2" name="" type="password" placeholder="전화 번호를 입력하세요">
                         </div>
-                        <a href="../common/find-id-ok.html" id="btnWideRequest" class="btn align-content-center w-25 my-1" type="button">확인</a>
+                        <a href="../common/find-id-ok.jsp" id="btnWideRequest" class="btn align-content-center w-25 my-1" type="button">확인</a>
                     </div>
                     <div id="" class="helpWideRequest form-text w-75 h-auto">
                         이름을 입력하세요.

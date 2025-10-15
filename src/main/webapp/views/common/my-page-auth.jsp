@@ -26,8 +26,9 @@
 
                         <div class="d-flex flex-wrap justify-content-center align-content-center w-75">
                             <div class="d-flex flex-wrap justify-content-center w-100">
-                                <input id="" class="form-control m-2 my-3" name="" type="password"
-                                    style="height: 50px;" placeholder="비밀번호 입력">
+                                <form id="" class="d-flex flex-wrap justify-content-center align-content-center w-100" action="" method="post">
+                                    <input id="" class="form-control m-2 my-3" name="" type="password" style="height: 50px;" placeholder="비밀번호 입력">
+                                </form>
                             </div>
                             <div id="" class="helpWideRequest form-text w-75 h-auto" style="margin-left: -110px;">
                             비밀번호를 입력해주세요.

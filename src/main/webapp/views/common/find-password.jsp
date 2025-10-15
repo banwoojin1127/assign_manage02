@@ -14,8 +14,10 @@
                 <div id="formFindPWRequest" class="col-12 d-flex flex-wrap justify-content-center align-content-center border border-dark border-1 rounded py-5">
                     <div class="d-flex flex-wrap justify-content-center align-content-center w-75">
                         <div class="d-flex flex-wrap justify-content-center align-content-center w-75">
-                            <input id="" class="form-control m-2" name="" type="text" placeholder="아이디를 입력하세요">
-                            <input id="" class="form-control m-2" name="" type="password" placeholder="전화 번호를 입력하세요">
+                            <form id="" class="d-flex flex-wrap justify-content-center align-content-center w-100" action="" method="post">
+                                <input id="" class="form-control m-2" name="" type="text" placeholder="아이디를 입력하세요">
+                                <input id="" class="form-control m-2" name="" type="password" placeholder="전화 번호를 입력하세요">
+                            </form>
                         </div>
                         <button id="btnWideRequest" class="btn align-content-center w-25 my-1" type="button" data-bs-toggle="modal" data-bs-target="#codeCheckModal">
                             확인

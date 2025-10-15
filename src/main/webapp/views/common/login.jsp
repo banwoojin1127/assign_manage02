@@ -11,8 +11,10 @@
                     </div>
                 </div>
                 <div id="formLoginRequest" class="col-12 d-flex flex-wrap justify-content-center align-content-center border border-dark border-1 rounded py-5">
-                    <input id="" class="form-control w-75 my-1" name="" type="text" placeholder="아이디"><br>
-                    <input id="" class="form-control w-75 my-1" name="" type="password" placeholder="비밀번호"><br>
+                    <form id="" class="d-flex flex-wrap justify-content-center align-content-center w-100" action="" method="post">
+                        <input id="" class="form-control w-75 my-1" name="" type="text" placeholder="아이디"><br>
+                        <input id="" class="form-control w-75 my-1" name="" type="password" placeholder="비밀번호"><br>
+                    </form>
                     <div id="" class="helpWideRequest form-text w-75 h-auto">
                         아이디를 입력하세요.
                         <br>

@@ -8,7 +8,7 @@
                 <b>마이페이지</b>
             </h3>
             <br><br>
-            <form style="margin: 0 400px; font-size: 20px;">
+            <form id="" class="" style="margin: 0 400px; font-size: 20px;" action="" method="post">
                 <div>
                     <img src="../../resources/img/profile.png" style="width: 45%; height: 45%;">
                 </div>

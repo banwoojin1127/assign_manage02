@@ -50,7 +50,7 @@
                 <!-- 체크 박스 네임 지정 -->
                 <td class="tea-td"><input type="checkbox" name="check"></td>
                 <td class="tea-td">1</td>
-                <td class="tea-td"><a href="../teacher/assignment-list.html" style="width: 100%; height: 100%; text-decoration: none;">자바의 정석</a></td>
+                <td class="tea-td"><a href="../teacher/assignment-list.jsp" style="width: 100%; height: 100%; text-decoration: none;">자바의 정석</a></td>
                 <td class=" class="tea-td"">29/35<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#addStudentModal">추가</button></td>
                 <td class="tea-td">2025.09.29</td>
                 <td class="tea-td">2025.09.29</td>
